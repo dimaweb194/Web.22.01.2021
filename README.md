@@ -1,4 +1,3 @@
-<?
 define("STOP_STATISTICS",true);
 define("NO_KEEP_STATISTIC",'Y');
 define("NO_AGENT_STATISTIC",'Y');
